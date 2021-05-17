@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Hotel\Hotel_Api\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2021-05-07T17:35:28.0478232Z;True|2021-05-07T20:32:09.8761404+03:00;</History>
+  </PropertyGroup>
+</Project>
