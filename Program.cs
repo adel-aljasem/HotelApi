@@ -24,3 +24,4 @@ namespace Hotel_Api
                 });
     }
 }
+
